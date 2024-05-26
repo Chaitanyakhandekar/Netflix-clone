@@ -1,3 +1,3 @@
 # Netflix-clone
 
-Netflix frontend using HTML and CSS
+ Netflix frontend using HTML and CSS
